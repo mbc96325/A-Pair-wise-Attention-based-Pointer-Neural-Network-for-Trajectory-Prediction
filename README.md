@@ -13,4 +13,4 @@ This is the code repo for the following paper:
 ```
 ## Data
 
-Data for this paper is avaiable in 2021 Amazon Last Mile Routing Research Challenge: Data Set(https://pubsonline.informs.org/doi/abs/10.1287/trsc.2022.1173?casa_token=I1Pp7a5WlFoAAAAA:z95j-fqf7LqI3crwhLrjMriEzLExO6Fdok2-GPzxy-0PfzNB35fN-_LN3Nk3AdNxV-Y18NwiVW78)
+Data for this paper is avaiable in 2021 Amazon Last Mile Routing Research Challenge: Data Set (https://pubsonline.informs.org/doi/abs/10.1287/trsc.2022.1173?casa_token=I1Pp7a5WlFoAAAAA:z95j-fqf7LqI3crwhLrjMriEzLExO6Fdok2-GPzxy-0PfzNB35fN-_LN3Nk3AdNxV-Y18NwiVW78)
